@@ -1,5 +1,5 @@
 # annuaireschool-mathys
-Annuaire School 🏫
+<h1>Annuaire School 🏫</h1>
 Bienvenue dans le projet "Annuaire School" ! 👋 Je suis ravi de vous présenter ce projet développé pour répondre aux besoins croissants de notre chère NWS (Normandie Web School) qui est submergée par les demandes d'inscription des nouveaux étudiants. 🌍📚 Les journées portes ouvertes sont bondées, et il devient de plus en plus difficile de garder le contact avec tous ces futurs étudiants passionnés. 😓
 
 Objectif du Projet 🎯
